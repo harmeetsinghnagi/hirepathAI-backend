@@ -1,0 +1,15 @@
+# Never upload these to GitHub
+
+# Virtual environment folder — very large, not needed on GitHub
+hirepathAI-env/
+
+# Environment variables — contains secret keys
+.env
+
+# Python cache files — not needed
+__pycache__/
+*.pyc
+*.pyo
+
+# Mac system files
+.DS_Store
